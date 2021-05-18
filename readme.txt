@@ -6,4 +6,5 @@ For example if the work timer is running, then changing the work time won't caus
 The reset button will set the timer back to the times that are currently entered into the input boxes.
 If nothing has been entered in the input boxes since the app was started then the timer will reset to the default values.
 
+Test it using the expo app using the following link:
 https://expo.io/@davidhermosillo/projects/PomodoroTimer
